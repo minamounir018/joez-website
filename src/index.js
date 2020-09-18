@@ -18,7 +18,8 @@ import AboutusPage from "views/Aboutus/Aboutus.js";
 import ContactusPage from "views/Contactus/Contactus.js";
 import FAQsPage from "views/FAQs/FAQs.js";
 
-var hist = createBrowserHistory();
+var hist = createBrowserHistory(); 
+
 
 ReactDOM.render(
   <Router history={hist}>
