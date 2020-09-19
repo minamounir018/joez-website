@@ -94,7 +94,6 @@ material-kit-react
 │   │   └── js
 │   └── tutorial-components.html
 ├── public
-│   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
 └── src
