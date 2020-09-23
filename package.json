@@ -1,8 +1,7 @@
 {
-  "name": "material-kit-react",
+  "name": "mina",
   "version": "1.9.0",
-  "description": "Material Kit React. Coded by Creative Tim",
-  "private": true,
+  "private": false,
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.10.0",
